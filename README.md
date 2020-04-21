@@ -1,9 +1,7 @@
 # Bingner Repo Mirror
 
-Bingner源镜像备份
+Fork :2020/04/12
 
-最后更新时间2020/04/12
+by @Netskao
 
-镜像来自Netskao
-
-源地址https://netskao.github.io/Bingner-Repo-Mirror/
+Repo : http://fahlnbg.github.io/binger
