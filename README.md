@@ -4,4 +4,4 @@ Fork :2020/04/12
 
 by @Netskao
 
-Repo : https://fahlnbg.github.io/binger
+Repo : https://fahlnbg.github.io/bingner
